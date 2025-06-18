@@ -22,4 +22,4 @@ A responsive web app that generates beautiful random color palettes with a singl
 ![Mobile preview](2.jpeg)
 
 ## Link
-https://playful-crepe-a3a481.netlify.app/
+colorpalettegeneratorjz.netlify.app
